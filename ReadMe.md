@@ -30,4 +30,8 @@ This is a simple real-time group chat web application built with the MERN stack 
 ```bash
 git clone https://github.com/your-username/group-chat-app.git
 cd chat-app
+  cd client
+  npm run dev
+  cd server
+  npm run dev
 ```
